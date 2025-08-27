@@ -1,1 +1,1 @@
-print("What a wonderful weather!!!Not everywhere")
+print("What wonderful weather!!!Not everywhere")
